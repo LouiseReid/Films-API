@@ -1,8 +1,5 @@
 # Express + Webpack Homework
 
-We've seen _a lot_ today! Tonight's homework is going to practice everything we have seen.
-
-Based on the starter code:
 
 ## Server API Tasks
 - Create an api for the films app using an /api/films restful route pattern and Express Router
